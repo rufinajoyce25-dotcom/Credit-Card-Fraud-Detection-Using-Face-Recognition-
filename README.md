@@ -30,7 +30,7 @@ cd backend
 python app.py  
 
 ### Step 3: Open in browser
-http://127.0.0.1:5000/setup  
+https://rufinajoyce25-dotcom.github.io/Credit-Card-Fraud-Detection/  
 
 ### Step 4: Open frontend
 Open frontend/index.html
